@@ -6,4 +6,4 @@ You can click the Preview link to take a look at your changes.
 <p><strong>I finally decided to choose the web development path. I created this second Github account to track my developer journey.</strong></p>
 <p>I'm passionated in Web Performance Optimization, Vanilla JavaScript, HTML and CSS (Vanilla and Frameworks). I'm currently learning advanced JavaScript, Typescript, Node.js, Svelte/SvelteKit, Bulma CSS, Tailwind CSS, and some GIT stuff. Yeah, this sounds a lot.</p>
 
-<p><strong>Twitter:</strong> https://twitter.com/devdisemio</p>
+<p><strong><a href="https://twitter.com/devdisemio" target="_blank" rel="noopener">Twitter</a></strong></p>
